@@ -1,6 +1,6 @@
 # Hi 👋 I'm Adarsh
 
-🚀 First-year Engineering Student  
+ First-year Engineering Student  
 💻 AI/ML Developer | Exploring Deep Learning & Full Stack  
 
 ---
