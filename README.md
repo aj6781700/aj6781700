@@ -22,7 +22,8 @@ https://github.com/aj6781700/codex/tree/fix-transfer-encoding-bug
 - PyTorch (Basics)
 
 ### 💻 Programming
-- C++ (DSA)  
+- C++ (DSA)
+- c 
 - Python  
 
 ### 🌐 Development
@@ -32,9 +33,10 @@ https://github.com/aj6781700/codex/tree/fix-transfer-encoding-bug
 ---
 
 ## 📈 Currently Learning
-- Advanced DSA  
-- Deep Learning  
-- Backend Development  
+-  DSA
+-  Machine Learning
+-   Deep Learning  
+-  Backend Development  
 
 ---
 
