@@ -188,42 +188,37 @@ I enjoy learning through implementation — understanding the theory, building t
 
 ---
 
-# 🌌 My AI Journey
+---
+
+# 🎯 My Goal
 
 <div align="center">
 
-```text
-                         🧠
-                         │
-                         ▼
-                      PYTHON
-                         │
-                         ▼
-                       DATA
-                         │
-                         ▼
-                MACHINE LEARNING
-                         │
-                         ▼
-                  DEEP LEARNING
-                         │
-                         ▼
-                  TRANSFORMERS
-                         │
-                         ▼
-                       LLMs
-                         │
-                         ▼
-                  GENERATIVE AI
-                         │
-                         ▼
-                    AI AGENTS
-                         │
-                         ▼
-                   AGENTIC AI
-                         │
-                         ▼
-               INTELLIGENT SYSTEMS
-                         │
-                         ▼
-                         🚀
+## 🚀 From Learning AI to Engineering Intelligence
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARN-00E5FF?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/BUILD-7B61FF?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/EXPERIMENT-FF00CC?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/INNOVATE-00FF99?style=for-the-badge"/>
+
+<br><br>
+
+### 🧠 My goal is to become an **AI Researcher / ML Engineer**
+### who can turn ideas into **intelligent, reliable and real-world AI systems.**
+
+<br>
+
+**Machine Learning → Deep Learning → Generative AI → Agentic AI**
+
+<br>
+
+> *Not just building models — building intelligence that can make an impact.*
+
+</div>
+
+---
