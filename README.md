@@ -1,41 +1,64 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+<!-- HERO -->
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=ADARSH%20KUMAR%20JHA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Deep%20Learning%20%7C%20GenAI%20%7C%20Agentic%20AI&descAlignY=62&descSize=18&animation=twinkling"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Exploring+Generative+AI+%E2%9C%A8;Exploring+Agentic+AI+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;Learning.+Building.+Experimenting.+%F0%9F%94%A5" />
+
+<br><br>
+
+<a href="https://github.com/aj6781700">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-kumar-jha-58017b378/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://aj6781700.github.io/My-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=aj6781700&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+<!-- ABOUT -->
+
+<div align="center">
+
+# 👋 Hey, What's Up?
+
+### I'm Adarsh Kumar Jha
+
+**AI/ML Developer • Deep Learning • Generative AI • Agentic AI**
+
 </div>
 
-###
+<br>
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║     🤖  Artificial Intelligence                           ║
+║                                                            ║
+║     🧠  Machine Learning                                  ║
+║                                                            ║
+║     🔥  Deep Learning                                     ║
+║                                                            ║
+║     ✨  Generative AI                                     ║
+║                                                            ║
+║     🔗  Agentic AI                                        ║
+║                                                            ║
+║     🚀  Intelligent Systems                               ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
