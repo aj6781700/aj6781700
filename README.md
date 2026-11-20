@@ -8,7 +8,7 @@
 
 # ADARSH KUMAR JHA
 
-### AI & Data Science • Machine Learning • Deep Learning
+### AI & Data Science • Machine Learning • Deep Learning • Researcher 
 
 <br>
 
